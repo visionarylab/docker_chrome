@@ -23,3 +23,5 @@ CMD ["bash"]
 
 # Expose ports.
 EXPOSE 5901
+EXPOSE 6903
+EXPOSE 6904
