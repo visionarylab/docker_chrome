@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu-desktop
+FROM ubuntu
 
 # Install Chromium.
 RUN \
